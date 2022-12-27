@@ -1,7 +1,7 @@
-package controller;
+package com.jdbc.jdbctemplate.controller;
 
-import dao.UserRepository;
-import entity.User;
+import com.jdbc.jdbctemplate.dao.UserRepository;
+import com.jdbc.jdbctemplate.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

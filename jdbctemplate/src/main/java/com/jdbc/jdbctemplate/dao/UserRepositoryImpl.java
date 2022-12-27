@@ -1,6 +1,6 @@
-package dao;
+package com.jdbc.jdbctemplate.dao;
 
-import entity.User;
+import com.jdbc.jdbctemplate.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
